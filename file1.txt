@@ -1,0 +1,14 @@
+
+    Steps followed:- 
+
+
+1. First install all the libraries like numpy, matplotlib, svgwrite and cairosvg
+
+2. Then import all the libraries using 
+    
+    import numpy as np
+    import matplotlib.pyplot as plt
+    import svgwrite
+    import cairosvg
+
+4. Then follow the code 
